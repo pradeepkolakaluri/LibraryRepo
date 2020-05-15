@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Library
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pkolakaluri
+Implementation-Vendor-Id: com.genpact
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/Library/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
