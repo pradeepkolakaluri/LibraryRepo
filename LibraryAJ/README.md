@@ -45,4 +45,5 @@ LibraryAJ > ng generate component library
 5. Run `ng serve` for a dev server.  Navigate to `http://localhost:4200/LibraryAJ`
 
 
-Note : Not uploaded "node_modules" files to GITHub, when run dev server copy this folder files to <user>/LibraryAJ/src/app
+**Note : Not uploaded "node_modules" files to GITHub due to size limit, 
+when run dev server copy this folder files to <user>/LibraryAJ/src/app
