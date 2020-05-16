@@ -42,7 +42,7 @@ public class JUnitRestTemplateTest {
         mockServer = MockRestServiceServer.createServer(restTemplate);
     }
     
-    // @Ignore
+         @Ignore
 	 @Test
 	 public void testGetBookById() throws URISyntaxException 
 	 {
