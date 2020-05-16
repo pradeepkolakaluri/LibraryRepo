@@ -25,3 +25,23 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+---------------------------------
+
+1.install angular CLI
+
+npm install -g @angular/cli
+
+2.Create Anjular base project name "LibraryAJ"
+C:<User> ng new LibraryAJ
+
+3.Generate httpClient support files in directory "service".
+LibraryAJ > ng generate service service/httpClient
+
+4.Generate library custom anjular files
+LibraryAJ > ng generate component library
+
+5. Run `ng serve` for a dev server.  Navigate to `http://localhost:4200/LibraryAJ`
+
+
